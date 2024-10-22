@@ -1,0 +1,62 @@
+[
+  {
+    "full_name": "John Doe",
+    "email": "john.doe@gmail.com"
+  },
+  {
+    "full_name": "Jane Smith",
+    "email": "jane.smith@yahoo.com"
+  },
+  {
+    "full_name": "Alex Johnson",
+    "email": "alex.johnson@hotmail.com"
+  },
+  {
+    "full_name": "Michael Williams",
+    "email": "michael.williams@outlook.com"
+  },
+  {
+    "full_name": "Emily Brown",
+    "email": "emily.brown@aol.com"
+  },
+  {
+    "full_name": "William Davis",
+    "email": "william.davis@icloud.com"
+  },
+  {
+    "full_name": "Olivia Miller",
+    "email": "olivia.miller@protonmail.com"
+  },
+  {
+    "full_name": "James Wilson",
+    "email": "james.wilson@yandex.com"
+  },
+  {
+    "full_name": "Ava Taylor",
+    "email": "ava.taylor@mail.com"
+  },
+  {
+    "full_name": "Michael Brown",
+    "email": "michael.brown@inbox.com"
+  },
+  {
+    "full_name": "Sophia Garcia",
+    "email": "sophia.garcia@zoho.com"
+  },
+  {
+    "full_name": "Emma Lopez",
+    "email": "emma.lopez@protonmail.ch"
+  },
+  {
+    "full_name": "Liam Martinez",
+    "email": "liam.martinez@fastmail.fm"
+  },
+  {
+    "full_name": "Isabella Rodriguez",
+    "email": "isabella.rodriguez@me.com"
+  },
+  {
+    "full_name": "Another Jane Smith",
+    "email": "jane.smith@yahoo.com"
+  }
+]

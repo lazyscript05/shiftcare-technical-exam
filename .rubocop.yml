@@ -1,0 +1,32 @@
+# .rubocop.yml
+
+# Specify which cops you want to enable or disable. You can find the cop names
+# in the 'Available Cops' section of the RuboCop documentation.
+# https://docs.rubocop.org/rubocop/cops_index.html
+
+AllCops:
+  NewCops: enable
+  SuggestExtensions: false
+
+# Disable the Style/FrozenStringLiteralComment cop
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+# Disable a cop
+Metrics/BlockLength:
+  Enabled: false
+
+Layout/EndOfLine:
+  Enabled: False
+
+require:
+  - standard
+  - standard-custom
+  - standard-performance
+  - rubocop-performance
+  - rubocop-rails
+
+inherit_gem:
+  standard: config/base.yml
+  standard-custom: config/base.yml
+  standard-performance: config/base.yml
